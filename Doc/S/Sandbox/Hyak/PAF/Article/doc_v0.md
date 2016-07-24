@@ -409,37 +409,33 @@ En complément des procédures d'agrément et de préemption prévues aux statut
 14.1.2.sec=- ou en cas de cessation de ses fonctions par révocation ou licenciement, s'il est alors bénéficiaire d'un contrat de travail, pour faute grave ou lourde ;
 
 
-14.1.3.sec=- ou encore en cas de violation des engagements de non concurrence et de non sollicitation (article 11), de confidentialité (article 12), ainsi que d'implication (article 13),
+14.1.3.1.Cl=- ou encore en cas de violation des engagements de non concurrence et de non sollicitation (article 11), de confidentialité (article 12), ainsi que d'implication (article 13),
 
 
-Note=How to insert an option? 
+Option 1 le partant conserve un certain nombre d'actions en fonction du temps passé au sein de la société
 
 
-[Option 1 – le partant conserve un certain nombre d'actions en fonction du temps passé au sein de la société]
+14.1.3.Alt1.0.sec={14.1.3.1.Cl} chacun des Dirigeants s'engage irrévocablement à céder tout ou partie des Actions, parmi celles qu'il détiendrait alors dans le capital de la Société, aux autres Associés qui en feraient la demande (les « Bénéficiaires » pour les besoins du présent article 14), au prorata de la participation de ces derniers dans le capital social de la Société et ce,  pour un prix forfaitaire correspondant à la valeur nominale  des Actions cédées, de sorte qu'à l'issue de son Départ Fautif, le Dirigeant concerné ne conserve qu'un nombre d'Actions de la Société déterminé en fonction du nombre de mois au cours desquels il aura exercé en exclusivité son mandat et ses fonctions et ce, selon les formules suivantes :<ul><li>- lorsque « M » est < 12, alors « N » = 0 ;
 
 
-chacun des Dirigeants s'engage irrévocablement à céder tout ou partie des Actions, parmi celles qu'il détiendrait alors dans le capital de la Société, aux autres Associés qui en feraient la demande (les « Bénéficiaires » pour les besoins du présent article 14), au prorata de la participation de ces derniers dans le capital social de la Société et ce,  pour un prix forfaitaire correspondant à la valeur nominale  des Actions cédées, de sorte qu'à l'issue de son Départ Fautif, le Dirigeant concerné ne conserve qu'un nombre d'Actions de la Société déterminé en fonction du nombre de mois au cours desquels il aura exercé en exclusivité son mandat et ses fonctions et ce, selon les formules suivantes :
+14.1.3.Alt1.1.sec- lorsque « M » est > ou = à 12, alors « N » = « M » \* (nombre d'Actions détenues par le Dirigeant concerné)/36,
 
 
-- lorsque « M » est < 12, alors « N » = 0 ;
+14.1.3.Alt1.2.secoù,
 
 
-- lorsque « M » est > ou = à 12, alors « N » = « M » \* (nombre d'Actions détenues par le Dirigeant concerné)/36,
+14.1.3.Alt1.3.sec- « N » correspond au nombre d'Actions de la Société que le Dirigeant concerné conservera en suite de son Départ Fautif et,
 
 
-où,
+14.1.3.Alt1.4.sec- « M » correspond au nombre de mois au cours desquels il aura exercé son mandat et ses fonctions jusqu'à son Départ Fautif.
 
 
-- « N » correspond au nombre d'Actions de la Société que le Dirigeant concerné conservera en suite de son Départ Fautif et,
-
-
-- « M » correspond au nombre de mois au cours desquels il aura exercé son mandat et ses fonctions jusqu'à son Départ Fautif.
-
+14.1.3.=[Z/Alt/2]
 
 [Option 2 – le partant ne conserve aucune action de la société en suite de son départ fautif]
 
 
-chacun des Dirigeants s'engage irrévocablement à céder l'intégralité des actions, parmi celles qu'il détiendrait alors dans le capital de la Société, aux autres Associés qui en feraient la demande, au prorata de la participation de ces derniers dans le capital social de la Société et ce, pour un prix par action déterminé en fonction du nombre de mois « M » au cours desquels il aura exercé en exclusivité son mandat et ses fonctions et ce, de la manière suivante :
+14.1.3.Alt2.0.sec={14.1.3.1.Cl} chacun des Dirigeants s'engage irrévocablement à céder l'intégralité des actions, parmi celles qu'il détiendrait alors dans le capital de la Société, aux autres Associés qui en feraient la demande, au prorata de la participation de ces derniers dans le capital social de la Société et ce, pour un prix par action déterminé en fonction du nombre de mois « M » au cours desquels il aura exercé en exclusivité son mandat et ses fonctions et ce, de la manière suivante :
 
 
 1. un nombre d'actions « N »  pour un prix correspondant à la valeur de marché  défini par rapport à la dernière valorisation de la Société retenue lors de l'augmentation de capital intervenue au cours de six (6) mois précédent le Départ Fautif, ou à défaut à dire d'expert dans les conditions de l'article 1843-4 du Code civil , déterminé selon la formule suivante :
